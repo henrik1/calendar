@@ -12,7 +12,7 @@
     "code42day/bounds": "*",
     "component/bind": "*",
     "component/domify": "*",
-    "component/classes": "*",
+    "component/classes": "1.2.4",
     "component/event": "*",
     "component/map": "*",
     "component/range": "1.0.0",
