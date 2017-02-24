@@ -9,7 +9,7 @@
     "ui"
   ],
   "dependencies": {
-    "code42day/bounds": "*",
+    "pirxpilot/bounds": "1.0.1",
     "component/bind": "*",
     "component/domify": "*",
     "component/classes": "1.2.4",
